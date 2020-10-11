@@ -22,7 +22,7 @@ const ProfilePage: React.FC = () => {
                 <h1>Castr0visk</h1>
                 <h2>@castr0visk</h2>
                 <p>
-                    Developer at <a href=""> @</a>
+                    Developer at <a href="ifal.edu.com"> @ifal</a>
                 </p>
 
                 <ul>
@@ -39,10 +39,10 @@ const ProfilePage: React.FC = () => {
 
                 <Followage>
                     <span>
-                        seguindo <strong>100</strong>
+                        seguindo <strong> 100 </strong>
                     </span>
                     <span>
-                    <strong>300 </strong> seguidores 
+                    <strong> 300 </strong> seguidores 
                     </span>
                 </Followage>
             </ProfileData>
